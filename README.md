@@ -38,13 +38,13 @@ This repository contains study materials for the **Claude Certified Architect �
 
 - Claude Code: Commands Cheatsheet https://claude-guides.com
 
-## How to Contribute
+## How to Contribute?
 
 - Add new translations to your language in md files, PDF version will be generated automatically after merge of PR.
-
 
 ## Follow:
 
 - LinkedIn: https://www.linkedin.com/in/paullarionov
 - X: https://x.com/paullarionov
 
+🖤🖤🖤
