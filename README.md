@@ -4,7 +4,7 @@ This repository contains study materials for the **Claude Certified Architect â€
 
 ![alt text](image.png)
 
-## Certificate
+## Certificate Example
 
 ![alt text](image-1.png)
 
@@ -28,7 +28,7 @@ This repository contains study materials for the **Claude Certified Architect â€
 - **Chinese guide**: [`guide_zh.pdf`](./pdf/guide_zh.pdf)
 - **Japanese guide**: [`guide_ja.pdf`](./pdf/guide_ja.pdf)
 
-## How to Use?
+## How to Use
 
 - Read the guide that matches your preferred language.
 - Work through the scenarios and questions.
@@ -38,12 +38,12 @@ This repository contains study materials for the **Claude Certified Architect â€
 
 - Claude Code: Commands Cheatsheet https://claude-guides.com
 
-## How to contribute
+## How to Contribute
 
 - Add new translations to your language in md files, PDF version will be generated automatically after merge of PR.
 
 
-## How to stay in touch
+## Stay in Touch
 
 - Follow me on LinkedIn: https://www.linkedin.com/in/paullarionov/
 
